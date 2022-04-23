@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1606672776 source:c:\moez\algo1\cours progc 2020\tp 2020\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"tp1.h"
+
+1606672032 c:\moez\algo1\cours progc 2020\tp 2020\projetc\tp1.h
+
+1609696226 source:e:\telechargement\projetc\projetc\main.c
+	<tchar.h>
+	<myconio.h>
+	<stdio.h>
+	<windows.h>
+	"tp1.h"
+	"tp2.h"
+	"tp3.h"
+
+1609636409 e:\telechargement\projetc\projetc\tp1.h
+	<locale.h>
+
+1609630768 e:\telechargement\projetc\projetc\tp2.h
+	<locale.h>
+	<math.h>
+
+1609696400 e:\telechargement\projetc\projetc\tp3.h
+	<locale.h>
+
